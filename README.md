@@ -4,4 +4,4 @@
 The purpose of this exercise was to create a dynamic webpage including a filter with multiple criteria that narrows down UFO sightings byt city, state, date, country and shape at the same time.
 
 ## Execution
-The 
+The project was executed using javascript to enter the base data for the website as well as developing the filters for the dynamic interface.  The website was created using HTML
